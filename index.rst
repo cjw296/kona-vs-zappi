@@ -9,3 +9,8 @@ vehicle and charger to see what problems there are and what you can do to solve 
 
   kona-2020-zappi-1
 
+Other content:
+
+.. toctree::
+
+  contributing
