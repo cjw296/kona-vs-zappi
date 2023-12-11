@@ -77,11 +77,13 @@ Possible problems:
 Fast on Zappi with Scheduled Charge on Kona
 -------------------------------------------
 
-*Not yet tested*
+*50% success rate (1/2 attempts)*
 
 This flips things around and should rely just on the car's charge schedule.
 The drawback is that, during the summer, this would prevent charging the car with
 excess solar, which is sort of the whole point of the zappi.
+
+- :ref:`charge-delayed-early-stop` *100% of failures (1/1 failures)*
 
 Problems
 ~~~~~~~~
