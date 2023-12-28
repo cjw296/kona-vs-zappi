@@ -31,7 +31,7 @@ The following configurations have been tested:
 Eco+, Scheduled Boost on Zappi with no Scheduled Charge on Kona
 ---------------------------------------------------------------
 
-*60% success rate (3/5 attempts)*
+*71% success rate (5/7 attempts)*
 
 This is the configuration that should "just work" and is likely the preferred setup for most people.
 
