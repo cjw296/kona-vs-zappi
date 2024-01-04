@@ -31,15 +31,17 @@ The following configurations have been tested:
 Eco+, Scheduled Boost on Zappi with no Scheduled Charge on Kona
 ---------------------------------------------------------------
 
-*71% success rate (5/7 attempts)*
+.. last included charge 3rd Jan 2024
+
+*70% success rate (7/10 attempts)*
 
 This is the configuration that should "just work" and is likely the preferred setup for most people.
 
 Possible problems:
 
-- :ref:`charge-delayed-no-start` *50% of failures (1/2 failures)*
+- :ref:`charge-delayed-no-start` *33% of failures (1/3 failures)*
 
-- :ref:`charge-delayed-early-stop` *50% of failures (1/2 failures)*
+- :ref:`charge-delayed-early-stop` *66% of failures (2/3 failures)*
 
 .. _eco_plus_scheduled_boost_scheduled_charge:
 
